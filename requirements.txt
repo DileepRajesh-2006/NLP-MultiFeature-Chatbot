@@ -35,7 +35,7 @@ python-dotenv>=1.0.0
 pillow>=10.2.0
 faiss-cpu>=1.7.4
 sentence-transformers>=2.5.0
-pickle5>=0.0.12
+#pickle5>=0.0.12
 
 # ── Visualization ─────────────────────────────────────────────
 matplotlib>=3.8.0
